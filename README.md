@@ -4,6 +4,7 @@
 - 📫 How to reach me ...
 esilberm@ucsd.edu
 
+Some of my projects and current ones -> https://eric-cito-silberman.super.site
 Passionate about hiking and the outdoors🏔️
 
 <!---
